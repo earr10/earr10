@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Erick Adrián Reyes Rosario
+- I’m a Systems Engineer
+- This is my student REPO with some of my projects and practices.
